@@ -53,6 +53,21 @@ I opened powershell then pinged my VM's private ip address. Afterwards, I used w
 <img src="https://i.imgur.com/sfdDMJt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I restarted the current capture and then filtered for ssh.
+I restarted the current capture and then filtered for SSH.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/zUPqEy3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+I restarted the current capture and then filtered for DCHP.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DFgAtxg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+I went to the VM's network security group in microsoft azure to deny the ICMP ping.
+</p>
