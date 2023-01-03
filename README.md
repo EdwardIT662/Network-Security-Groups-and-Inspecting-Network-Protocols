@@ -45,14 +45,14 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/oBm2TxG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I opened powershell then pinged my VM's private ip address. Afterwards, I set used wireshark to traffic the ICMP
+I opened powershell then pinged my VM's private ip address. Afterwards, I used wireshark to traffic the ICMP
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sfdDMJt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I restarted the current capture and then filtered for ssh.
 </p>
 <br />
